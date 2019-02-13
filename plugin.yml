@@ -1,0 +1,6 @@
+name: "QueueSpeedometer"
+description: "It records how fast you go in the queue and then rejoins :D"
+authors:
+  - "IronException"
+version: "1.0"
+mainClass: "Main"
